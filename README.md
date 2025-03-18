@@ -17,7 +17,7 @@ The dataset used for training comes from Kaggle. You need to download them befor
 🚀 How to Use
 
 Clone this repository:
-git clone https://github.com/FatimaNsrn/CNN_cats_vs_dogs_classifie-r.git
+git clone https://github.com/FatimaNsrn/CNN_cats_vs_dogs_classifier
 
 Install dependencies:
 pip install tensorflow numpy matplotlib
