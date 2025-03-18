@@ -34,3 +34,4 @@ Run the notebook:
 💾 Model File
 
 If you want to use the trained model, download it here:
+https://1drv.ms/u/c/4b393099ffe3064e/EaKEEeeXWGBAgwt6RqfSorwBIducFS9o8tPw90Yb8xsdvg?e=2Qhdwm
